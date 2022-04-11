@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Monty Hall\Monty_Hall_Problem\Monty_Hall_Problem\bin\Debug\net6.0\Monty_Hall_Problem.exe
+C:\Users\PC\Desktop\Monty Hall\Monty_Hall_Problem\Monty_Hall_Problem\bin\Debug\net6.0\Monty_Hall_Problem.deps.json
+C:\Users\PC\Desktop\Monty Hall\Monty_Hall_Problem\Monty_Hall_Problem\bin\Debug\net6.0\Monty_Hall_Problem.runtimeconfig.json
+C:\Users\PC\Desktop\Monty Hall\Monty_Hall_Problem\Monty_Hall_Problem\bin\Debug\net6.0\Monty_Hall_Problem.dll
+C:\Users\PC\Desktop\Monty Hall\Monty_Hall_Problem\Monty_Hall_Problem\bin\Debug\net6.0\ref\Monty_Hall_Problem.dll
+C:\Users\PC\Desktop\Monty Hall\Monty_Hall_Problem\Monty_Hall_Problem\bin\Debug\net6.0\Monty_Hall_Problem.pdb
+C:\Users\PC\Desktop\Monty Hall\Monty_Hall_Problem\Monty_Hall_Problem\obj\Debug\net6.0\Monty_Hall_Problem.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Monty Hall\Monty_Hall_Problem\Monty_Hall_Problem\obj\Debug\net6.0\Monty_Hall_Problem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Monty Hall\Monty_Hall_Problem\Monty_Hall_Problem\obj\Debug\net6.0\Monty_Hall_Problem.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Monty Hall\Monty_Hall_Problem\Monty_Hall_Problem\obj\Debug\net6.0\Monty_Hall_Problem.AssemblyInfo.cs
+C:\Users\PC\Desktop\Monty Hall\Monty_Hall_Problem\Monty_Hall_Problem\obj\Debug\net6.0\Monty_Hall_Problem.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Monty Hall\Monty_Hall_Problem\Monty_Hall_Problem\obj\Debug\net6.0\Monty_Hall_Problem.dll
+C:\Users\PC\Desktop\Monty Hall\Monty_Hall_Problem\Monty_Hall_Problem\obj\Debug\net6.0\ref\Monty_Hall_Problem.dll
+C:\Users\PC\Desktop\Monty Hall\Monty_Hall_Problem\Monty_Hall_Problem\obj\Debug\net6.0\Monty_Hall_Problem.pdb
+C:\Users\PC\Desktop\Monty Hall\Monty_Hall_Problem\Monty_Hall_Problem\obj\Debug\net6.0\Monty_Hall_Problem.genruntimeconfig.cache
